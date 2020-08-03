@@ -1,0 +1,9 @@
+#banner_image{padding-top:75px;padding-bottom:21%;text-align: center; color: #f8f8f8;background: url(intro-bg_1.jpg) no-repeat center center; background-size: cover;}
+#banner_content{position: relative;padding-top: 6%; padding-bottom: 6%;margin-top: 12%;margin-bottom: 12%;background-color: rgba(0, 0, 0, 0.7);max-width: 660px;}
+.footer{padding: 10px 0; background-color: #101010;color:#9d9d9d;bottom:10%;width: 100%;}
+#content{padding-top:14%;padding-bottom:14%; max-width:30%;}
+#contain{padding-top:6%;padding-bottom:2%;}
+#nav{background-color:#f1f1f1; color:red;}
+a{text-decoration:none;}
+p{text-align:justify; text-justify:inter-world;}
+#col{color:white;}
